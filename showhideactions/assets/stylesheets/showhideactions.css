@@ -1,0 +1,12 @@
+.show-hide-icon
+{
+	background-image: url(../../../images/magnifier.png);
+}
+a.show-hide, .journal ul.details, .journal.has-details
+{
+	display: none;
+}
+.journal.has-notes
+{
+	display: block;
+}
