@@ -1,3 +1,0 @@
-= showhideactions
-
-Description goes here

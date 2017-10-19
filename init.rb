@@ -6,5 +6,5 @@ Redmine::Plugin.register :showhideactions do
   description 'Enables Show/Hide of message actions'
   version '0.0.1'
   url 'https://github.com/c-jack/redmine_showhide_actions'
-  author_url 'https://github.com/c-jack/redmine_showhide_actions'
+  author_url 'https://github.com/c-jack'
 end

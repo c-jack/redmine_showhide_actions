@@ -23,9 +23,9 @@ function showHideNotes() {
         $('.journal.has-notes.has-details ul.details').show(500,"swing")
         $('.journal.has-details ul.details').show();
         $('.journal.has-details').show(500,"swing");
-        $('.rtd-showhide').text('Hide Update Actions');
+        $('.show-hide-icon').text('Hide Actions');
     } else {
-        $('.rtd-showhide').text('Show Update Actions');
+        $('.show-hide-icon').text('Show Actions');
         $('.journal.has-details').not('.journal.has-notes.has-details').hide(500,"swing");
         $('.journal ul.details').hide(500,"swing");
     }
